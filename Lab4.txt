@@ -1,0 +1,19 @@
+SE205 Lab 4 pg 110 
+
+17) Truck Primary is TRUCK_CODE Foreign keys are BASE_CODE and TYPE_CODE
+    Base Primary is BASE_CODE no Foreign keys
+    Type primary is TYPE_CODE no Foreign keys
+
+18) Yes they do have entity integrity because there are no null entries in the Primary Keys of any table
+
+19) Truck table doesn't have referential integrity because there is a null value in one of the BASE_CODE foreign key the other tables are N/A due to not having foreign keys
+
+20) TRUCK_SERIAL_NUMBER
+
+21) Truck superkey is TRUCK_SERIAL_NUM secondary key is TRUCK_BUY_DATE 
+    Base superkey is BASE_CITY and BASE_STATE secondary key is BASE_AREA_CODE and BASE_PHONE
+    Type superkey is TYPE_DISCRIPTION seconday key is TYPE_DISCRIPTION
+
+22) see workbench ERD.
+
+23) Similar to number 22.
